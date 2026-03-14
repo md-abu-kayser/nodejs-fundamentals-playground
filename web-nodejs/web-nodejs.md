@@ -14,6 +14,14 @@
 10. why node.js is popular?
 11. cons of using node.js?
 12. dependencies of NodeJs
-
-
-**Even Driven Architecture of Node.js:**
+13. **Even Driven Architecture of Node.js:**
+14. **Single Threaded Nodejs vs Multithreaded Server**
+- I/O Intensive Task
+- CPU Intensive Tasks
+- Horizontal Scaling
+- Vertical Scaling
+15. How Node.js handle multiple request?
+- non-blocking I/O
+16. **Runtime Differences & the Game Changer Concept of IIFE**
+- browser runTime | NodeJS Run Time
+17. **Exploring Common.js, Import, Export & Name Alias**
