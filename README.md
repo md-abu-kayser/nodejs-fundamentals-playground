@@ -1,4 +1,4 @@
-# Node Express Mastery
+# Fundamentals of Web Application with Nodejs
 
 > A hands‑on Node.js learning repository focused on module systems, runtime concepts, and building a solid foundation for modern backend development.
 
@@ -108,6 +108,21 @@ Want to take this project further? Consider adding:
 
 ---
 
-## 📄 License
+### License
 
-This project is licensed under the [MIT License](LICENSE).
+- This project is licensed under the terms of the **[MIT License](./LICENSE)**.
+- You may replace or update the license as needed for client or proprietary projects.
+
+---
+
+### Contact and Maintainer
+
+- **Name:** Md Abu Kayser
+- **Project:** _nodejs-fundamentals-playground_
+- **Maintainer:** [md-abu-kayser](https://github.com/md-abu-kayser)
+- **GitHub:** [github.com/abu.kayser-official](https://github.com/md-abu-kayser)
+- **Email:** [abu.kayser.official@gmail.com](mailto:abu.kayser.official@gmail.com)
+
+If you’d like this README tailored for a specific purpose - such as **hiring managers**, **open-source contributors**, or **client deliverables** - feel free to request a custom tone or format.
+
+---
