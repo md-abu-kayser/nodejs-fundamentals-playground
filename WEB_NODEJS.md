@@ -327,7 +327,7 @@ Example:
 })();
 ```
 
-Why it is a game changer:
+**Why it is a game changer:**
 
 - Creates encapsulation before modules became standard.
 - Avoids polluting the global scope.
@@ -339,7 +339,7 @@ In modern Node.js, modules provide scope, but the IIFE pattern still appears in 
 
 CommonJS is Node.js’s original module system.
 
-Example export:
+**Example export:**
 
 ```js
 // math.js
